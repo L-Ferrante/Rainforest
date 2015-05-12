@@ -1,0 +1,191 @@
+.hero {
+	background-image: url(../img/croc.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-bottom:25px;
+}
+body {
+	max-width: 1020px;
+	font-family: "Lithos Pro";
+	margin: 0 auto;
+	}
+
+h2 {
+		font-family: "Lucida Calligraphy";
+		font-weight: normal;
+		font-size: 28px;
+	}
+p {
+	font-size: 18px;
+	font-family: "Lucida Calligraphy";
+}
+
+header {
+	text-align: center;
+	color: #fff;   
+	}
+	
+
+.logo {
+	float: left;
+	padding-left: 15px;
+	}
+
+nav {
+	min-height: 50px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	width: 1020px;
+	}
+
+nav ul {
+	display:inline;
+	text-decoration: none;
+	float: right;
+	}
+
+nav ul li {
+	display: inline;
+	text-decoration: none;
+	padding-right: 55px;
+	font-size: 20px;
+	}
+
+.caption {
+	text-align: center;
+}
+.caption h1 {
+color: white;
+padding: 30px;
+}
+
+#sub-caption {
+	font-family: "Lucida Calligraphy";
+	font-size: 30px;
+	color: white;
+	padding: 15px;
+}
+
+.btn {
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  background: #786209;
+  padding: 16px 20px 16px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a6880f;
+  text-decoration: none;
+}
+
+.ff {
+	width: 100%;
+	background: #789259;
+	text-align: center;
+	padding-top: 15px;
+	overflow: auto;
+	padding: 60px 0px;
+}
+.ff h1 {
+	margin-top: 15px;
+
+}
+
+.fauna {
+	float:left;
+	width: 50%;
+	text-align: center;
+
+}
+.description {
+	text-align: center;
+	max-width: 230px;
+	margin: 0 auto;
+	padding-bottom: 15px;
+}
+
+.flora {
+	width: 50%;
+	text-align: center;
+	float: right;
+}
+
+.deforestacion {
+	width: 100%;
+	text-align: center;
+	overflow: auto;
+	padding: 60px 0px;
+	background: #987254;
+}
+.deforestacion h1 {
+	margin-top: 15px;
+}
+
+#side {
+	max-width: 44%;
+	float: left;
+	padding-right: 20px;
+	text-align: left;
+	padding-left: 6%;
+}
+.video {
+	max-width: 45%;
+	float: right;
+	padding-right: 15px;
+}
+.spacer {
+	height: 50px;
+	width: 100%;
+	clear: both;
+}
+
+.proteccion {
+	width: 100%;
+	background: #789259;
+	text-align: center;
+	overflow: auto;
+	padding: 60px 0px;
+}
+
+.text {
+width: 54%;
+text-align: left;
+float: right;
+padding-top: 20px;
+padding-bottom: 35px;
+padding-right: 6%;
+}
+.text p {
+}
+#image {
+	float: left;
+	width: 40%;
+	padding-top: 50px;
+	padding-bottom: 35px;
+}
+#proteccion-button {
+	margin: 0 auto;
+	text-align: center;
+}
+.footer {
+	width: 100%;
+	text-align: center;
+	overflow: auto;
+	padding: 60px 0px 40px 0px;
+	background: #987254;
+}
+.footer ul {
+	font-size: 22px;
+	display:inline;
+	text-decoration: none;
+
+}
+.footer ul li {
+	padding-right: 55px;
+	display: inline;
+	text-decoration: none;
+	font-size: 14px;
+}
